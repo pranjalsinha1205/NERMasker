@@ -32,8 +32,3 @@ The goal is to simulate a **text anonymization** or **preprocessing pipeline** f
 | **Original** | Barack Obama visits UN | Barack Obama discussed climate change. | John Smith |
 | **Masked** | [PERSON] visits [ORG] | [PERSON] discussed climate change. | [PERSON] |
 
----
-
-## 📬 Github link
-
-https://github.com/pranjalsinha1205/NERMasker
