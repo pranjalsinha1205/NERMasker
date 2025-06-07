@@ -32,3 +32,10 @@ The goal is to simulate a **text anonymization** or **preprocessing pipeline** f
 | **Original** | Barack Obama visits UN | Barack Obama discussed climate change. | John Smith |
 | **Masked** | [PERSON] visits [ORG] | [PERSON] discussed climate change. | [PERSON] |
 
+![comparison](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
